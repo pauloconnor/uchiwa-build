@@ -50,7 +50,7 @@ GEM
       mustache
       ohai (~> 6.20)
       stud
-    rake (10.3.2)
+    rake (13.0.1)
     stud (0.0.17)
       ffi
       metriks
