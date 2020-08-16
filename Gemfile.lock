@@ -55,7 +55,7 @@ GEM
       ffi
       metriks
     systemu (2.5.2)
-    yajl-ruby (1.2.1)
+    yajl-ruby (1.4.1)
 
 PLATFORMS
   ruby
